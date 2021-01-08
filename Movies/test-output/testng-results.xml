@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26177" started-at="2021-01-07T12:23:04Z" finished-at="2021-01-07T12:23:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26177" started-at="2021-01-07T12:23:04Z" finished-at="2021-01-07T12:23:30Z">
+      <class name="com.Test.moviesTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Test.moviesTest@6e6c3152]" name="setUp" is-config="true" duration-ms="10615" started-at="2021-01-07T12:23:04Z" finished-at="2021-01-07T12:23:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchMovies()[pri:0, instance:com.Test.moviesTest@6e6c3152]" name="searchMovies" duration-ms="15493" started-at="2021-01-07T12:23:14Z" finished-at="2021-01-07T12:23:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMovies -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Test.moviesTest@6e6c3152]" name="tearDown" is-config="true" duration-ms="41" started-at="2021-01-07T12:23:30Z" finished-at="2021-01-07T12:23:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Test.moviesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
